@@ -1,13 +1,14 @@
 {
   "marketing_stripe": {
     "text": "Vestindo com elegância e transformando vidas!",
-    "link": ""
+    "link": "",
+    "color": "#e0c262"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "OFERTAS",
+        "link": ""
       }
     ],
     "phone_wpp": true,
