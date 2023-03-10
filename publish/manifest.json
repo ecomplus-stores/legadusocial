@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ece273cf7e2fabe2a8cc73aede6c2c93.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a6867e258bf6715922559a66653b08bc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.40863d6f3add1f5635182c8036998949.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.2f97f2e47bba3250dd53c96fe6380a83.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.687917a2e95251147b7539ce23e047d5.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Legadu Social Trajes Finos",
+  "short_name": "Legadu Social",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos a Legadu Social Trajes Finos, uma empresa que acredita poder fazer a diferença na vida das pessoas, através do compromisso e responsabilidade ambiental e social. ",
+  "background_color": "#10152e",
+  "theme_color": "#10152e"
+}
