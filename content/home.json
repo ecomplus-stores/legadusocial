@@ -6,7 +6,14 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": []
+      "slides": [
+        {
+          "start": "2023-03-21T20:40:13.752Z",
+          "end": "",
+          "img": "/img/uploads/banner-1.png",
+          "mobile_img": "/img/uploads/banner-1-mobile.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
