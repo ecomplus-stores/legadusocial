@@ -6,23 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/capa.jpg",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capa.jpg",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
