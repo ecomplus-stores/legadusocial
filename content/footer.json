@@ -31,8 +31,8 @@
     "visa": true,
     "mastercard": true,
     "elo": true,
-    "amex": true,
-    "hipercard": true,
+    "amex": false,
+    "hipercard": false,
     "boleto": true
   },
   "credits": ""
