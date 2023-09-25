@@ -1,6 +1,6 @@
 {
   "meta_title": "Legadu Social Trajes Finos",
-  "meta_description": "trajes finos, ternos, ternos elegantes, moda evangélica, moda executiva, confeccção própria",
+  "meta_description": "trajes finos, ternos, moda evangélica, moda executiva, confeccção própria e vendas em atacado!",
   "sections": [
     {
       "type": "banner-slider",
@@ -34,7 +34,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-5.png",
+          "img": "/img/uploads/se-vista-com-1200-300-px-.png",
           "mobile_img": "/img/uploads/banner-5-mobile.png"
         }
       ]
@@ -55,7 +55,7 @@
     },
     {
       "type": "page-title",
-      "title": "Queremos fazer parte dos seus melhores momentos",
+      "title": "Queremos fazer parte dos melhores momentos da sua loja!",
       "description": "Todo momento especial é acompanhado de um bom terno. Escolha a Legadu Social!"
     }
   ]
