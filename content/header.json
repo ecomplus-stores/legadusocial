@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "CONFECÇÃO PRÓPRIA DE TRAJES FINOS NO SUL DE MINAS",
+    "text": "Confeccionamos trajes finos em atacado",
     "link": "",
-    "color": "#e0c262"
+    "color": "#1d3368",
+    "background": "#e0c262"
   },
   "contacts_stripe": {
     "pages": [
